@@ -1,0 +1,11 @@
+largura = 60
+puts 'You are the light Ive been searchin for forever'.center(largura)
+puts 'Feels like, man, Ive really never felt the rain'.center(largura)
+puts 'Buried in the desert, didnt think Id push through the dirt'.center(largura)
+puts 'You just cleansed me like a waterfall, you came'.center(largura)
+puts 'But you made mе want to'.center(largura)
+puts 'But you made mе want to'.center(largura)
+puts 'But you made mе want to'.ljust(largura)
+puts 'But you made mе want to'.rjust(largura)
+puts 'But you made mе want to'.ljust(largura) + 'But you made mе want to   '.rjust(largura)
+puts 'But you made mе want to'.ljust(largura/2) + 'But you made mе want to'.rjust(largura/2)
